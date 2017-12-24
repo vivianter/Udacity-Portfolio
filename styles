@@ -1,0 +1,37 @@
+/*css*/
+
+body{
+	margin: 0;
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 10px;
+	color: #747704;
+
+}
+
+.text-works {
+	padding-left:2%;
+	color: #BABABA;	
+	font-size: 38px;
+	margin-top: 1em;
+}
+
+.title-name {
+	font-size: 100px
+
+}
+
+
+.subtitle {
+	font-weight: 300;
+	font-size: 22px;
+}
+
+/*css for images */
+.title-logo {
+	margin-top: 1.5em;
+}
+
+
+hr {    
+    height: 50px;        
+}
